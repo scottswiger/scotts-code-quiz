@@ -14,5 +14,5 @@ N/A
 
 To take the quiz, click the start quiz button and enter the repective keys to enter an answer
 
-![alt text](Assets/images/Screenshot 2023-05-10 at 4.48.19 PM.png)
+![alt text](Assets/Screenshot 2023-05-10 at 4.48.19 PM.png)
 
