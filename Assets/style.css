@@ -28,11 +28,12 @@ body {
 #questionHeader {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: left;
     align-items: flex-start;
     border-bottom: solid #150622 .1em;
     color: #150622;
     padding: .1em;
+    width: 100%;
 }
 
 #quizArea {
@@ -63,12 +64,16 @@ body {
     color: #150622;
     font-size: 1em;
     padding: 0 3em 2em 3em;
-    width: 90%
+    width: 100%
 }
 
 li {
-    list-style-type: none;
-    margin: .25em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border:1px solid #000;
+    color: #150622;
 }
 
 footer {
